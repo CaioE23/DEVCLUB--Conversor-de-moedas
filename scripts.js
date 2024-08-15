@@ -85,7 +85,7 @@ function changeCurrency(){
 
      if(currencySelect.value == "libra") {
          coinName.innerHTML = "Libra"
-         coinImage.src="./assets/Libra 1.png"
+         coinImage.src="./assets/libra 1.png"
      }
      
 
